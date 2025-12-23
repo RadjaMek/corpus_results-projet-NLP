@@ -1,0 +1,43 @@
+=== METADATA ===
+Source: The New York Times
+Section: Finance / Israel-Hamas Conflict
+Title: Hamas Victims’ Families Sue Binance, Accusing It of Aiding Terrorism
+Authors: Stacy Cowley
+Published: Nov. 25, 2025
+Updated: Nov. 27, 2025
+
+=== ARTICLE ===
+
+Hamas Victims’ Families Sue Binance, Accusing It of Aiding Terrorism
+
+A lawsuit claims the cryptocurrency exchange turned a blind eye as $1 billion used to finance the Oct. 7 attacks in Israel and other acts moved through its network.
+
+The families of 300 U.S. citizens hurt or killed in the Oct. 7 attack on Israel sued Binance, claiming the cryptocurrency exchange aided Hamas and other terrorist groups by transferring more than $1 billion among accounts they controlled.
+
+The lawsuit was filed in federal court in North Dakota on Monday, about a month after President Trump pardoned Changpeng Zhao, Binance’s founder, who was convicted in 2023 of breaking money laundering rules.
+
+Binance “pitched itself to terrorist organizations, narcotics traffickers and tax evaders as beyond the reach of any single country’s laws or regulations,” according to the lawsuit. It claims that the company ignored warnings from its compliance vendors about suspicious transactions and skipped basic security checks on funds flowing into its network.
+
+The lawsuit seeks damages, to be determined at trial, under a 2016 law that allows victims of terrorism to sue foreign entities in U.S. courts.
+
+As recently as this month, Binance allowed brokers in the Gaza Strip to transact with “high-risk” customers, the families said in their 272-page complaint. They said Binance knowingly moved at least $50 million for Hamas, Hezbollah, Iran’s Islamic Revolutionary Guard Corps, Palestinian Islamic Jihad and other terrorist organizations in the years since the Oct. 7, 2023, attack on Israel.
+
+“This was not a compliance lapse; it was a business model,” said Jonathan Missner, a lawyer for some of the more than 70 families named as plaintiffs in the lawsuit. “Our investigation shows that Binance built systems designed to evade oversight, using its off-chain network and weak controls to move enormous sums for sanctioned groups.”
+
+Binance declined to comment on the lawsuit. “We comply fully with internationally recognized sanctions laws, consistent with other financial institutions,” the company said in a written statement.
+
+Eyal Balva’s son Omer, an American citizen and reservist for the Israel Defense Forces, was called to serve after the Oct. 7 attack and died that month in fighting near the Lebanese border. The I.D.F. attributed his death to an antitank missile fired by Hezbollah.
+
+“Those who helped make these atrocities possible shouldn’t get to hide behind computer screens,” Mr. Balva said in a written statement. “Binance’s platform moved the money that helped fund the violence that destroyed our family.”
+
+The lawsuit details more claimed transactions with Hamas than were revealed by the Justice Department, the Treasury Department’s Financial Crimes Enforcement Network and other regulators in their 2023 settlement agreement with Binance. The company paid $4.3 billion in fines and restitution.
+
+Mr. Zhao pleaded guilty to a money-laundering violation, stepped down as the company’s chief executive and served a four-month prison sentence. Mr. Trump pardoned him last month after Binance participated in a $2 billion business deal in May involving World Liberty Financial, the Trump family’s crypto start-up. The pardon could allow him to regain direct control of Binance.
+
+Binance and Mr. Zhao face several civil lawsuits in the United States, but the North Dakota complaint offered an unusually granular look at the transactions that it claimed crossed Binance’s network and funneled money into digital wallets flagged by law enforcement officials as ones tied to terrorist groups.
+
+The court filing described, for example, a money-laundering operation that it said involved sending gold from Venezuela to Iran to bypass American sanctions, and listed specific Binance accounts it said were used in the geographically sprawling scheme. One Binance account cited received more than $177 million in cryptocurrency deposits and cashed out $50 million in local currencies, the complaint said.
+
+When Binance settled in 2023 with U.S. regulators, the company said in a blog post that it acknowledged “our company’s responsibility for historical, criminal compliance violations.”
+
+
