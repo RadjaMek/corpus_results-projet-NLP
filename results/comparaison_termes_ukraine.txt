@@ -1,0 +1,13 @@
+Occurrences des mots cles
+Ukraine counts:
+civilian: 33
+victim: 4
+trump: 199
+ukraine: 500
+
+Russia counts:
+putin: 97
+talk: 120
+soldier: 39
+militant: 0
+russia: 310

@@ -1,0 +1,7 @@
+Test Palestine-like text:
+Tokens: ['new', 'york', 'time', 'title', 'israel', 'take', 'journalist', 'combat', 'zone', 'gaza']
+Bias score: {'palestinian': 0.021240376, 'israel': 0.42739284}
+
+Test Israel-like text:
+Tokens: ['update', 'date', 'conflict', 'israel', 'hamas', 'war', 'article', 'israel', 'colonel', 'projected', 'confidence', 'described', 'battle']
+Bias score: {'palestinian': 0.12093836, 'israel': 0.5623063}

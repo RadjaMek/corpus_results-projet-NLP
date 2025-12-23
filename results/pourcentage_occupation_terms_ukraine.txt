@@ -1,0 +1,50 @@
+Fréquence et pourcentage d'occupation des mots dans ukraine (total 26614 mots)
+
+Mot : ukraine
+  Fréquence   : 500
+  Pourcentage : 1.8787 %
+
+Mot : russia
+  Fréquence   : 310
+  Pourcentage : 1.1648 %
+
+Mot : sanction
+  Fréquence   : 3
+  Pourcentage : 0.0113 %
+
+Mot : attack
+  Fréquence   : 42
+  Pourcentage : 0.1578 %
+
+Mot : victim
+  Fréquence   : 4
+  Pourcentage : 0.0150 %
+
+Mot : military
+  Fréquence   : 94
+  Pourcentage : 0.3532 %
+
+Mot : civilian
+  Fréquence   : 33
+  Pourcentage : 0.1240 %
+
+Mot : war
+  Fréquence   : 283
+  Pourcentage : 1.0634 %
+
+Mot : crime
+  Fréquence   : 23
+  Pourcentage : 0.0864 %
+
+Mot : freedom
+  Fréquence   : 2
+  Pourcentage : 0.0075 %
+
+Mot : putin
+  Fréquence   : 97
+  Pourcentage : 0.3645 %
+
+Mot : trump
+  Fréquence   : 199
+  Pourcentage : 0.7477 %
+

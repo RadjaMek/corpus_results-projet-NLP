@@ -1,0 +1,12 @@
+Occurrences des mots cles
+Palestine counts:
+palestinian: 272
+gaza: 576
+hamas: 377
+militant: 53
+
+Israel counts:
+israel: 1073
+idf: 9
+soldier: 47
+civilian: 36

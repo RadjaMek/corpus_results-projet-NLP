@@ -1,0 +1,9 @@
+Palestiniens / Gaza 
+Adjectifs : [('israeli', 77), ('military', 73), ('more', 48), ('other', 43), ('”', 36), ('“', 34), ('israel-hamas', 33), ('southern', 29), ('humanitarian', 26), ('international', 26)]
+Verbes    : [('said', 199), ('has', 159), ('was', 136), ('s', 132), ('is', 110), ('had', 109), ('were', 107), ('have', 106), ('be', 93), ('been', 77)]
+Noms      : [('israel', 334), ('’', 223), ('war', 161), ('israeli', 160), ('===', 159), ('palestinians', 128), ('”', 116), ('mr.', 99), ('oct.', 90), ('officials', 75)]
+
+ Israël / IDF 
+Adjectifs : [('israeli', 147), ('military', 115), ('palestinian', 74), ('more', 60), ('s', 52), ('”', 48), ('other', 38), ('israel-hamas', 33), ('“', 31), ('southern', 27)]
+Verbes    : [('said', 190), ('has', 168), ('s', 164), ('was', 147), ('is', 129), ('have', 108), ('had', 97), ('be', 92), ('were', 82), ('are', 64)]
+Noms      : [('gaza', 333), ('’', 308), ('israeli', 295), ('hamas', 238), ('===', 185), ('war', 160), ('mr.', 137), ('”', 107), ('palestinians', 88), ('oct.', 80)]

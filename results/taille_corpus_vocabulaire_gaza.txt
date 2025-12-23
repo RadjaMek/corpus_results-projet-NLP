@@ -1,0 +1,2 @@
+Taille du corpus : 35275
+Taille du vocabulaire : 6526

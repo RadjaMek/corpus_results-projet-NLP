@@ -1,0 +1,261 @@
+Article 1:
+ Persons: Aucun témoin PERSON
+ Organizations: Aucun témoin ORG
+----------------------------------------
+Article 2:
+ Persons: Jordan, Ronen Bergman
+Reported_From, Blinken
+ Organizations: New York Times, Hamas
+----------------------------------------
+Article 3:
+ Persons: Adam Rasgon, Natan Odenheimer, Suhaib al-Hamss, Rafah, al-Hamss
+ Organizations: New York Times, Hamas, Hamas, the Kuwait Specialty Field Hospital, Hamas, Hamas, Hamas, Islamic Jihad, Hamas
+----------------------------------------
+Article 4:
+ Persons: Jordan, Ronen Bergman
+Reported_From, Jordan, Blinken, Iddo Ben-Anat, Ben-Anat, Ben-Anat, Eitan, Ben-Anat, Saher Abu Adgham, Abu Adgham, Majdi Ahmed, Ahmed
+ Organizations: New York Times, Share, Hamas, Hamas, Hamas, The New York Times, Hamas, Hamas, Hamas, Hamas, Movember, United, Hamas, The New York Times, Times, Times, the Committee to Protect Journalists, Hamas, Hamas, Hamas
+----------------------------------------
+Article 5:
+ Persons: Adam Rasgon
+, Shalom Ben Hanan, Ben Hanan, Brig, Erez Winner, Ben Hanan, Nidal Kuhail, Yasser Abu Shabab, Ismail Thawabteh, Badran, Afifa, Benjamin Netanyahu, Moshe Tur-Paz, Tur-Paz, Ben Hanan
+ Organizations: New York Times, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Trump, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Badran, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Trump, Hamas, Hamas, Trump, Hamas, Hamas, Hamas, Hamas, Hamas, Afifa, Hamas, Al Aqsa TV, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Foreign Affairs, Defense Committee, Hamas, Hamas, Shin Bet, Hamas, Hamas
+----------------------------------------
+Article 6:
+ Persons: Will Reopen, Aaron Boxerman
+, Rafah, Samar Abu Elouf, Will Reopen, Rafah, Benjamin Netanyahu, Rafah, Shosh Bedrosian, Rafah, Rafah, Rafah, Rafah, Aaron Boxerman, Will Reopen
+ Organizations: New York Times, The New York Times, Au début de l’article, après l’introduction sur le Rafah, Hamas, the European Union, Hamas, Hamas, Hamas, the World Health Organization, E.U., Palestinian Authority, Hamas, Hamas, Hamas, Hamas, Hamas, the International Committee for the Red Cross, Hamas, Times, Section A
+----------------------------------------
+Article 7:
+ Persons: Adam Rasgon, Sanjana Varghese, Fatima AbdulKarim, Al-Muntasir Billah Abdullah, Yousef Asasa, Abdullah, Asasa, Ahmad Nazzal, Eitan Ilan, Itamar Ben-Gvir, Volker Türk
+ Organizations: New York Times, Islamic Jihad, Palestine TV, the Palestinian Authority, the Department of Investigations of Police Misconduct, justice ministry, United Nations, The foreign ministry of, the Palestinian Authority, Husam Zomlot
+----------------------------------------
+Article 8:
+ Persons: David M. Halbfinger, Adam Rasgon, Natan Odenheimer, Aaron Boxerman
+, Aryeh Lightstone, Lightstone, Ayed Abu Ramadan, Trump, Lightstone, David M. Friedman, Elon Musk, Kempinski, Hilton, Lightstone, Jared Kushner, Kushner, Marco Rubio, JD Vance, Lightstone, Rafah
+ Organizations: New York Times, House, House, Hamas, Trump, Hamas, Hamas, Trump, Hamas, Trump, Hamas, Hamas, Hamas, the Gaza Governorate Chamber of Commerce, United Nations, Trump, Trump, the Department of Government Efficiency, the Abraham Accords Peace Institute, State, the International Stabilization Force, Trump, Hamas, Hamas, Hamas, Hamas, Partition Concerns, Hamas, Hamas
+----------------------------------------
+Article 9:
+ Persons: David M. Halbfinger, Yitzhak Rabin, Shir Torem, Après, Saher Alghorra, Après, décrivant la nouvelle, de paix et l’élargissement du cessez-le-feu, David Guttenfelder, Yitzhak Rabin, Yair Lapid, Yesh Atid, Rabin, Yair Golan, Assaf Hamami, Sgt, Omer Neutra, Benjamin Netanyahu, Netanyahu, Trump, Gayil Talshir, Rabin, Rabin, Golan, Rabin, Lapid, Rabin, Itamar Ben-Gvir, Netanyahu, Lapid, David M. Halbfinger
+ Organizations: New York Times, du corps de l’article, Trump, Hamas, The New York Times, The New York Times, Trump, Hamas, Trump, Hamas, the Abraham Accords, Hamas, Hamas, Hamas, the Hebrew University of Jerusalem, Jewishness, Politics, Times, Section A
+----------------------------------------
+Article 10:
+ Persons: Rubio, Edward Wong, Rubio, Marco Rubio, Marco Rubio, Rubio, Steven Fagin, Benjamin Netanyahu, Trump, JD Vance, Steve Witkoff, Trump, Jared Kushner, Brad Cooper, Rubio, Rubio, Rubio, Trump, Rubio, Rubio, Netanyahu, Rubio, Trump, Rubio, Trump
+ Organizations: New York Times, State, the State Department, State, Trump, the Civil-Military Coordination Center, The State Department, Hamas, Hamas, Trump, State Department, the United Nations, Trump, the United Nations, Hamas, Trump, Knesset, Parliament, Time
+----------------------------------------
+Article 11:
+ Persons: Vivian Yee, Lauren Leatherby, Samar Abu Elouf, Bilal Shbair, Iyad Abuheweila, Abu Bakr Bashir, Aaron Boxerman
+Published_Date, Amir Ahmed, Ahmed al-Dalou, Tamer Hamdan, Bakr Gaoud, Aseel Mutair, Mohammed al-Aloul, Lubna al-Dahouk, Muna Abu Holi, Abu Karsh, Muna Abu Holi, Haya Al-Barai, Ismail al-Sheikh, Asmaa Dwaima, Al-Hassan al-Harazeen, Hanaa al-Najjar, Ramadan, Naela al-Danaf, Maryam al-Kafarneh, Ramy Nasr, Mohammed al-Baradei, Yousef Sager, Samar al-Jaja, Mohammed, Mahmoud, Ahmed, Abdullah Akeila, al-Jaja, al-Jaja, al-Jaja, Yasser Shaban, Wisal Abu Odeh, Nour Barda, Naela al-Danaf, Sanaa Abu Hilal, Montaser Bahja, Layan al-Mohtaseb, Abdul Hakim Abu Hatab, Saed Abu Aita, Mohammed Aborjela, Ehab Fasfous, Hammam Malaka, Najia Malaka, Ashraf, Mohammed, Malaka, Ashraf, Mohammed, Seela, Malaka, Nesreen Joudeh, Naseem Hassan, Sabah Abu al-Roos, Sami al-Astal, Mazen Alwahidi, Wisal Abu Odeh, Layan al-Mohtaseb, Ehab Fasfous, Batoul, Safaa Zyadah, Shareef Kafarneh, Yasmin al-Attar, Ramez Souri, Abu Karsh, Ibrahim Abdulwahed, Shareef Kafarneh, Hanaa al-Najjar, Fatma Edaama, Mkhaimar Abu Sada, Yasmin al-Attar, Amir Ahmed, Sabah Abu al-Roos, Amir Ahmed, Batoul, Safaa Zyadah, Ehab Fasfous, Saed Abu Aita, Nizar Hammad, Mohammed Shubeir, Mohamed Kilani, Manal Abu Odeh, Asmaa Dwaima, Bilal Assabti, Ahmed al-Nems, Samar Al-Muslimi, Ahmed al-Dalou, Mariam Moeen Awwad, Aseel Mutair, Naela al-Danaf, Mohammed El-Sabti, Asmaa Dwaima, Niveen Foad, Sarah Yusuf, Foad, Sarah, Sarah, Foad, Foad, Muna Abu Holi, Yasmin Joudeh, Fatima Abu Shaar, Abdullah Al-Hajj, Nesma Abu Jiyab, Ruba Abu Jibba, Lina Gamal, Montaser al-Saafen, Maha Ashour, Mohammed al-Aloul, Maryam al-Kafarneh, Passant al-Louh, Maher Ghanem, Ghanem, Realistically, Ghanem, Ghanem, Suzanne Abu Daqqa, Mohammed Al-Baradei, Mkhaimar Abu Sada, Mazen Alwahidi, Mohammed El-Sabti, Muna Abu Holi, Ibrahim Abdulwahed, Shahd Jweifel, Ayah Jweifel, Malak al-Haj Ahmed, Mazen Alwahidi, Mohammed Aborjela, Islam al-Astal, Abdul Hakim Abu Hatab, Mohamed Abu Rteinah, Ehab Fasfous
+ Organizations: New York Times, Hamas, Hamas, Sandy, Beit Lahia, al-Bayaa, the Palestinian Authority
+----------------------------------------
+Article 12:
+ Persons: Liam Stack, Saher Alghorra
+Reported, Liam Stack, Khitam Ayyad, Ayyad, Olga Cherevko, Trump, Benjamin Netanyahu, Cherevko, Zikim, Zikim, Bassem al-Qedra, Cherevko, Tess Ingram, Amani al-Hessi, Al Madina, al-Mawasi, Ingram, Bassem al-Qedra, Khan Younis, al-Qedra
+ Organizations: New York Times, Al-Mawasi & Nuseirat, Hamas, the United Nations, Hamas, Hamas, New York Times, The United Nations, Nuseirat Camp, The United Nations, the Red Cross, Doctors Without Borders, the United Nations, U.N., The United Nations, UNICEF, UNICEF, The United Nations, UNICEF
+----------------------------------------
+Article 13:
+ Persons: Rawan Sheikh Ahmad, Isabel Kershner, Abu Bakr Bashir, Saher Alghorra
+Reported, Rawan Sheikh Ahmad, Abu Bakr Bashir, Saher Alghorra, Atef Abu Khater, Abu Khater, Ahmed al-Farra, al-Farra, Siwar Barbaq, Mohammed Zakaria al-Mutawaq, Mohammed, Hedaya al-Mutawaq, Mohammed, Joud, Mohammed, Mohammed, Al-Rantisi, Yahia al-Najjar, Safa al-Najjar, Yahia, Yahia, Mohammad Saqr, Saqr, Mohammad Abu Salmiya
+ Organizations: New York Times, The World Food Program, the United Nations, Hamas, U.N., Hamas, the Friends of the Patient, the American Hospital, Hamas, the Gaza Humanitarian Foundation, the United Nations, Hamas, the United Nations, Hamas, Hamas, Hamas, Nasser Medical Complex, Al-Shifa Hospital
+----------------------------------------
+Article 14:
+ Persons: Isabel Kershner, Avishag Shaar-Yashuv, Avishag Shaar-Yashuv, Emily Damari, Damari, Kfar Aza, Emily Damari’s, Damari, Instagram, Damari, Damari, Kfar Aza, Danielle Amit, Damari, Damari, Hamas, Damari, Romi Gonen, Gonen, Damari, Damari, Damari, Gonen, Damari, Damari, Gonen, Damari, Damari, Gali, Ziv Berman, Gali Berman, Damari, Damari, Damari, Damari, Gonen, Maccabi Tel Aviv, Damari, Maccabi, Emily Damari, Damari, Damari, Kfar Aza, Damari, Berman, Gali Berman, Ziv Berman, Damari, Damari, Damari, Mandy, Mandy Damari, Emily Damari, Tottenham Hotspur, Emily Damari, Damari, Amit, Damari, Amit, Amit, Damari, Gonen
+ Organizations: New York Times, Hamas, Hamas, Hamas, Hamas, The New York Times, Sheba Medical Center, The Kfar Aza, Hamas, Hamas
+----------------------------------------
+Article 15:
+ Persons: David M. Halbfinger
+Reported, Ilana Yahav, Benjamin Netanyahu, Kfar Aza, Netanyahu, Yom Kippur, Fawzi Barhoum, Netiv HaAsara, Ahmed al-Haddad, Nakba, Kfar Aza, Zion Regev, Gali, Ziv, Kfar Aza, Nitzan Kaner, Anat Magnezi, Amit, Dana Petrenko
+ Organizations: New York Times, Hamas, Hamas, Tzlil Sasson, sundown, Hamas, Hamas, Hamas, Hamas, Hamas, Israeli Embassy, Hamas, Hamas, Roman Fourmann
+----------------------------------------
+Article 16:
+ Persons: Katie Rogers, Trump, Trump, Benjamin Netanyahu, Trump, Trump, Mohammad Nazzal, Trump, Trump
+ Organizations: New York Times, Hamas, Washington
+Published_Date, Hamas, Trump, Hamas, Trump, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Al Jazeera, Hamas, Hamas, MILITARILY TRAPPED, Hamas
+----------------------------------------
+Article 17:
+ Persons: Sarah Wildman, Ofir Berman, Omri Miran, Omri, Lishay, Omri, Roni, Roni, Lishay, Omri, Lishay, Alon Ohel, Idit, Yossi Sharabi, Yossi, Eli, Yossi, Yossi, Alon Ohel, Elkana Bohbot, Re’em, Muhammad al-Atarash, Ibrahim, Sgt, Muhammad al-Atarash, Muhammad, David Cunio, David Cunio, Sharon Cunio, Emma, Yuli, Sharon, Danielle, Emilia, Sharon, David, Sharon, David
+ Organizations: New York Times
+Section:, Hamas, Hamas, Hamas, Times Opinion, Talmud, Kibbutz Nahal Oz, Alon, Inbar, Alon, Alon, Idit, Alon, Eli, Eli, the Israeli Navy, Eli, Eli, Elkana, Rivka, Elkana, Rivka, Elkana, Elkana, Rivka, Kibbutz Nir Oz, Nir Oz, Hamas
+----------------------------------------
+Article 18:
+ Persons: Aaron Boxerman
+Reported, Trump, Trump, Trump, Trump, Trump, Benjamin Netanyahu, Trump, Trump, Trump, Trump, Trump, Trump, Trump, Netanyahu, Trump, Trump, Marwan Barghouti, Trump, Netanyahu, Ron Dermer, Khalil al-Hayya, al-Hayya, Steve Witkoff, Trump, Jared Kushner, Trump
+ Organizations: New York Times
+Section: International / Israel-Hamas War, Hamas, Hamas, Hamas, Hamas, Trump, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Trump, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas
+----------------------------------------
+Article 19:
+ Persons: Ephrat Livni, Benjamin Netanyahu, Einav Zangkauer, Matan, Trump, Trump, Zangkauer, Trump, Trump, Marco Rubio, Karoline Leavitt, Trump, Trump, Ceasefire, Trump, Benjamin Netanyahu, Netanyahu, Trump, Trump, Trump, Netanyahu, Trump, Trump, Rubio, Leavitt
+ Organizations: New York Times
+Section: International / Israel-Hamas War, Washington
+Published_Date, Hamas, Hamas, Trump, Sukkot, the White House, Hamas, Hamas, State, Fox News, Hamas, The White House, Hamas, Hamas, Hamas, Hamas, the Hostages and Prisoner Exchange, Hamas, Hamas, Hamas, Trump, Hamas, Hamas, Trump, Hamas, Hamas, Hamas, Administration
+----------------------------------------
+Article 20:
+ Persons: Roger Cohen
+, David Guttenfelder, Saher Alghorra, Ola Metzger, Nir Metzger, Trump, Yom Kippur, Trump, Benjamin Netanyahu, Netanyahu, Trump, Riwaa Abu Quta, Gazan, Yuval Shany, Gordon, Gershom Gorenberg, Netanyahu, Moshe Yaalon, Yaalon, Netanyahu, Netanyahu, Bibi, Michael Oren, Netanyahu, Netanyahu, Daniella Weiss, Weiss, Bibi, Gadi Shamni, Shamni, Itamar Ben-Gvir, Bezalel Smotrich, Smotrich, Ben-Gvir, Al Mughayir, Aisha Abu Alia, Abu Alia, Abu Alia, Abu Alia, Abu Alia, Al Aqsa, Abu Alia, Sara, Samar, Abu Alia, Nour, Shlomo Ben-Ami, Viki Cohen, Nimrod, Nimrod Cohen, Cohen, Yehuda, Cohen, Cohen, Cohens, Netanyahu, Cohen, Nimrod, Cohen, Netanyahu, Nimrod, Netanyahu, Trump, Netanyahu, Cohens, Cohen, Riwaa Abu Quta, Al-Mawasi, Khan Younis, Alaa, Bibas, Yarden Bibas, Shiri, Shiri, Shiri, Yossi, Margit Silverman, Netanyahu, Oren, Netanyahu, Netanyahu, Gorenberg, Yitzhak Rabin
+ Organizations: New York Times, Hamas, Hamas, Kibbutz Nir Oz, Hamas, Hamas, Hamas, Hamas, Hamas, Nakba, the Hebrew University of Jerusalem, Hamas, Hamas, Hamas, A Dream Foreclosed, Hamas, Rubik, Hamas, Hamas, the Supreme Court, Hamas, The Place of Funerals’, Hamas, Kibbutz Nir Oz, Hamas, Nir Oz, the United Nations General Assembly, Hamas, Hamas, TikTok
+----------------------------------------
+Article 21:
+ Persons: Aaron Boxerman
+, Rina Castelnuovo, Benjamin Netanyahu, Netanyahu, Obama, Netanyahu, Mahmoud Abbas
+ Organizations: New York Times, Hamas, United Nations, the Oslo Accords, the Palestinian Authority, the Palestinian Authority, Hamas, Peace Now
+----------------------------------------
+Article 22:
+ Persons: Ashley Wu
+ Organizations: New York Times, Andorra, the United Nations General Assembly, Andorra, the General Assembly, U.N., Hamas, the U.N. Security Council, the Security Council
+----------------------------------------
+Article 23:
+ Persons: Johnatan Reiss
+Contributors, Patrick Kingsley, Aaron Boxerman, Natan Odenheimer, Avishag Shaar-Yashuv, Gil Cohen-Magen, Tamir Kalifa, Saher Alghorra, Nadine Abu Arafeh, Moran Gez, Yulia Malinovsky, Gez, Gez, Malinovsky, Gez, Simcha Rothman, Rothman, Malinovsky, Rothman, Malinovsky, Yuval Shany, Shany, Monica Hakimi, Gazan, Itamar Ben-Gvir, Gazan, Ben-Gvir, Rothman
+ Organizations: New York Times, Hamas, Hamas, Hamas, Hamas, Justice Ministry, the United Nations, Justice Ministry, Knesset, the Israel Democracy Institute, Al Qaeda, Hamas, Columbia Law School, Physicians for Human Rights — Israel, The New York Times
+----------------------------------------
+Article 24:
+ Persons: Netanyahu, Ephrat Livni, Johnatan Reiss
+Published_Date, Tamir Kalifa, Ohad Zwigenberg, Netanyahu, Benjamin Netanyahu, Netanyahu, Netanyahu, Herzi Halevi, Ronen Bar, Netanyahu, Netanyahu, Netanyahu, Benjamin Netanyahu, Bar
+ Organizations: New York Times, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, the Israeli, Hamas, Hamas, Hamas, Hamas, The New York Times, Hamas
+----------------------------------------
+Article 25:
+ Persons: Isabel Kershner, Tamir Kalifa, Benjamin Netanyahu, Herzi Halevi, Aharon Haliva, Amir Tibon, Nahal Oz, Tibon, Nahal Oz
+ Organizations: New York Times, Hamas, Hamas, Hamas, Hamas, Hamas, Southern Command, Gaza Division, Halevi, Hamas, Hezbollah, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, health ministry
+----------------------------------------
+Article 26:
+ Persons: Adam Rasgon
+Location, Mousa Abu Marzouk, Mousa Abu Marzouk, Abu Marzouk, Abu Marzouk, Abu Marzouk, Abu Marzouk, Abu Marzouk, Abu Marzouk, Hassan Nasrallah, Nasrallah, Abu Marzouk, Yousef, Stanley Cohen, Abu Marzouk, Abu Marzouk, Mike Tyson, Tyson, Abu Marzouk, Benjamin Netanyahu, Abu Marzouk, Osama Hamdan, Hamdan, Abu Marzouk, Ibrahim Madhoun, Abu Marzouk, Abu Marzouk, Abu Marzouk
+ Organizations: The New York Times
+Section: Middle East / Israel-Hamas War, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, The New York Times, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hezbollah, Hamas, Times, Hamas, Hamas, Hamas, Hezbollah, Hezbollah, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas
+----------------------------------------
+Article 27:
+ Persons: Aaron Boxerman
+Location, Sara Qudah, Jonathan Conricus, Conricus
+ Organizations: The New York Times
+Section:, Legal Challenge Is Delayed
+Authors, Legal Challenge Is Delayed, Hamas, the Israeli Supreme Court, Reuters, The Associated Press, The Foreign Press Association, The New York Times, The Times, Times, the Israeli Supreme Court, the Committee to Protect Journalists, Hamas, Hamas, C.P.J., Hamas, Hamas, the Supreme Court, the Foundation for Defense of Democracies, the State of Israel
+----------------------------------------
+Article 28:
+ Persons: Ephrat Livni, Philippe Lazzarini
+ Organizations: The New York Times
+Section:, U.N., United Nations, U.N., the United Nations Relief and Works Agency, UNRWA, the United Nations, UNRWA, Hamas, UNRWA, Hamas, the United Nations, UNRWA, United Nations, U.N., the United Nations, U.N., UNRWA, UNRWA, UNRWA, UNRWA, the U.N. General Assembly, The International Court of Justice, U.N., the United Nations, the General Assembly
+----------------------------------------
+Article 29:
+ Persons: Aaron Boxerman, Yasser Abu Shabab, Yasser Abu Shabab, Gazan, Abu Shabab, Abu Shabab, Abu Shabab, Abu Shabab, Abu Shabab, Ghassan Duhine, Duhine, Gazan, Abu Shabab, Ashraf al-Mansi, Housam al-Astal, Shalom Ben Hanan, Ben Hanan, Abu Shabab, Rafah, Abu Shabab, Abu Shabab, Kalashnikov, Georgios Petropoulos, Rafah, Petropoulos, Abu Shabab, Abu Shabab, Abu Shabab, Rafah, Abu Shabab, Abu Shabab, Ben Hanan, Ben Hanan, Montaser Bahja, Abu Shabab, Bahja, Abu Shabab, Yasser Abu Shabab
+ Organizations: The New York Times
+Section:, Hamas, Hamas, Popular Forces, Hamas, Hamas, the Popular Forces, Hamas, The New York Times, Hamas, Hamas, Hamas, the Popular Forces, the Popular Forces, Hamas, Hamas, Hamas, the Popular Forces, the Popular Forces, Hamas, Hamas, U.N., U.N., Hamas, Hamas, Hamas, Hamas, Hamas
+----------------------------------------
+Article 30:
+ Persons: Harvard Antisemitism Lawsuit, Mark Arsenault, Harvard Antisemitism Lawsuit, Yoav Segev, Richard G. Stearns, Yoav Segev, Segev, Segev, Segev, Segev, Segev, Segev, Stearns, Segev, Segev
+ Organizations: The Boston Globe /, The New York Times
+Section: Education / Legal News
+Title, Harvard, the Federal District Court, Harvard Business School, Hamas, Harvard, Harvard, Harvard, Harvard
+----------------------------------------
+Article 31:
+ Persons: Adam Rasgon, Natan Odenheimer, Yasser Abu Shabab, Yasser Abu Shabab, Abu Shabab, Abu Shabab, Benjamin Netanyahu, Abu Shabab, Gazan, Abu Shabab, Georgios Petropoulos, Rafah, Abu Shabab, Kalashnikov
+ Organizations: The New York Times
+Section:, Hamas, the Popular Forces, Hamas, Israel Defense Force, United Nations, Hamas, Hamas
+----------------------------------------
+Article 32:
+ Persons: Leo Calls, Motoko Rich, Leo Calls, Leo XIV, Recep Tayyip Erdogan, Leo, Leo, Leo, Erdogan, Leo, Erdogan, Iznik, Saint Neophytos, Leo, Joseph Aoun, Aoun, Pope Leo, Pope Leo
+ Organizations: The New York Times
+Section: Middle East / Religion, Vatican, the Holy See’s, State, Hamas, Cardinal Parolin, Nicaea, the Blue Mosque, Airbus
+----------------------------------------
+Article 33:
+ Persons: Netanyahu, Ephrat Livni, Netanyahu, Benjamin Netanyahu, Zohran Mamdani, Netanyahu, Mamdani, Netanyahu, Netanyahu, Netanyahu, Netanyahu, Isaac Herzog, Herzog, Netanyahu, Trump, Netanyahu, Trump, Netanyahu, Trump, Netanyahu, Herzog, Netanyahu, Netanyahu, Netanyahu, Netanyahu, Netanyahu, Netanyahu, Netanyahu, Netanyahu
+ Organizations: The New York Times
+Section: International / Politics, the International Criminal Court, I.C.C., Trump
+----------------------------------------
+Article 34:
+ Persons: Katrin Bennhold, Roger Cohen et, David Guttenfelder, Roger Cohen, Haytham Ali Tabatabai, David Guttenfelder, Abdulkhaleq Abdulla, David, Nawaf Salam, Jeffrey Feltman, Benjamin Netanyahu
+ Organizations: The New York Times, Imperial Israel’, Assad, Hezbollah, Hezbollah, Hezbollah, New York Times, Hamas, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hamas, Domination, Hezbollah, Assad, Hezbollah
+----------------------------------------
+Article 35:
+ Persons: Netanyahu, David M. Halbfinger, Netanyahu, Benjamin Netanyahu, Trump, Benjamin Netanyahu, Netanyahu, Isaac Herzog, Trump, Herzog, Netanyahu, Netanyahu, Trump, Netanyahu, Netanyahu, Netanyahu, Netanyahu, Netanyahu, Naftali Bennett, Netanyahu, Yair Lapid, Netanyahu, Reuven Hazan, Netanyahu, Hazan, Netanyahu, Netanyahu, Netanyahu, Netanyahu, Mitchell Barak, Netanyahu, Barak, Hazan, Netanyahu, Hazan, Netanyahu, Trump, Netanyahu, Netanyahu, Netanyahu, Netanyahu, Netanyahu, Netanyahu, Trump, Netanyahu, Trump, Gayil Talshir, Trump, Herzog, Netanyahu, Netanyahu, Trump, Herzog, Talshir, Netanyahu, Bibi
+ Organizations: The New York Times
+Section:, Hamas, the Hebrew University of Jerusalem, Hezbollah, Hamas, Hamas, Hebrew University, Trump, Trump
+----------------------------------------
+Article 36:
+ Persons: Aaron Boxerman, Rawan Sheikh Ahmad, Gazan, Ahmed al-Farra, Bani Suheila, Fadi, Juma Abu Assi, Tamer Abu Assi, Raed Abu Assi, Juma, Fadi, Abu Assi, Raed Abu Assi
+ Organizations: The New York Times
+Section:, Nasser Hospital, Khan Younis, Palestine TV, the Palestinian Authority, the Palestinian Authority, Hamas, Hamas, Hamas, health ministry, Trump
+----------------------------------------
+Article 37:
+ Persons: Natan Odenheimer, Isabel Kershner, Segev Kalfon, Segev Kalfon, Kalashnikov, Kalfon, Kalfon, Kalfon, Kalfon, Itamar Ben-Gvir, Kalfon, Kalfon, Ben-Gvir, Kalfon, Kalfon, Noya Shilo, Shilo, Guy Gilboa-Dalal, Kalfon, Kalfon, Galit Kalfon, Kalfon, Shema, Kalfon, Yosef-Chaim Ohana, Kalfon, Kalfon, Kalfon, Kalfon, Kalfon, Kalfon, Kalfon, Elkana Bohbot, Ohad Ben-Ami, Kalfon, Kalfon, Kalfon, Kalfon, Ben-Gvir, Kalfon, Ben-Gvir, Kalfon, Herkin, Kupershtein, Ben-Gvir, Ben-Ami, Ohana, Hajj, Kalfon, Kalfon, Hajj, Bayan Abu Nar, Kalfon, Abu Nar, Kalfon, Kalfon, Kalfon, Kalfon, Abu Nar, Kalfon, Ohana, Kalfon, Abu Nar, Kalfon, Abu Nar, Kalfon, Ohana, Kalfon, Abu Nar, Kalfon, Kalfon, Kalfon, Kalfon
+ Organizations: The New York Times
+Section:, Captivity, Hamas, Hamas, Hamas, Islam, The New York Times, Hamas, Hamas, Sheba Medical Center, Hamas, N12, fed, Bar Kupershtein, Hamas, Hamas, The New York Times, Islam, Islam, Army Radio, Hamas, Hamas, Hamas, the Red Cross
+----------------------------------------
+Article 38:
+ Persons: Richard Sandomir, Reiss, Eli Zeira, Zeira, Zeira, Ashraf Marwan, Gamal Abdel Nasser, Zeira, Brig, Aryeh Shalev, Zeira, Marwan, Howard Blum, Zeira, Marwan, Zvi Zamir, Moshe Dayan, David Elazar, Zamir, Zeira, Eliahu Zeira, Palmach, Dayan, Abraham Rabinovichwrote, Zeira, Shalev, Zeira, Elazar, Shalev, Yoav Gelber, Zeira, Zeira, Gelber, Zeira, Marwan, Zeira, Zamir, Zamir, Zeira, Marwan, Zamir, Zeira, Marwan, Marwan, Zeira, Zeira, Barkai
+ Organizations: The New York Times
+Section:, Johnatan, Eli Zeira, the Israel Defense Forces, Zeh-EE-rah, I.D.F., Rotary Club, Mossad, the Brookings Institution, Mossad, Mossad, I.D.F., I.D.F., the British Mandate of Palestine, The Daily Telegraph, Hebrew University, I.D.F., I.D.F., the Agranat Commission, I.D.F., I.D.F., The Daily Telegraph, I.D.F., Mossad, Aviram Barkai, Hamas
+----------------------------------------
+Article 39:
+ Persons: Roger Cohen, David Guttenfelder, David Guttenfelder, Nawaf Salam, Trump, Abdulkhaleq Abdulla, Trump, Tom Barrack, the U. S., Hassan Abdel Karim Shahrour, Shlomi Hatan, Benjamin Netanyahu, Hatan, Hatan, Salam, Beirut, Salam, Netanyahu, Salam, Salam, Jasper Jeffers III, Salam, Yassine Jaber, Barrack, Naim Qassem, Hassan Nasrallah, Qassem, Ibrahim Aqeel, Nasrallah, Qassem, Abbas, Fakhr al-Din, Nabatieh, Ahmad Kahil, Kahil, al-Din, Nabatieh, al-Din, Ahmed al-Sharaa, al-Sharaa, Bashar al-Assad, Khaled Moussa, Orna Weinberg, Netanyahu, Hatan, Netanyahu, Netanyahu, Barrack, Bosporus, Danube, Trump, Barrack, Barrack, Trump, Trump, Barrack, Salam, Barrack, Bint Jbeil, Hadi and, Silan, Celine, Amani Bazzi, Salam, Bint Jbeil, Salam
+ Organizations: The New York Times
+Section:, Hezbollah, Imperial Israel’, New York Times, Hezbollah, Hezbollah, Hamas, Hamas, Hezbollah, Hezbollah, Hezbollah, Trump, Hezbollah, Hezbollah, Assad, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hamas, Hezbollah, Hegemon, Hezbollah, Morgan Ortagus, Lebanese Army, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Al Qaeda, Hezbollah, Hezbollah, Hezbollah, Khiam, Khiam, Hamas, Hezbollah, Hamas, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah
+----------------------------------------
+Article 40:
+ Persons: Aaron Boxerman, Dror Or, Dror Or, Or, Yonat, Alma, Noam, Ran Gvili, Sudthisak Rinthalak, Benjamin Netanyahu, Gazan
+ Organizations: The New York Times
+Section:, Hamas, Hamas, Hamas, Hamas, Hamas, Red Cross, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Hamas, Trump, Hamas
+----------------------------------------
+Article 41:
+ Persons: Sue Binance, Stacy Cowley, Sue Binance, Binance, Trump, Changpeng Zhao, Binance, Binance, Binance, Jonathan Missner, Binance, Binance, Omer, Balva, Binance, Binance, Zhao, Trump, Binance, Binance, Zhao, Binance, Binance, Binance, Binance
+ Organizations: The New York Times
+Section: Finance, Hamas, Hamas, Hamas, Hamas, Hezbollah, Islamic Revolutionary Guard Corps, Palestinian Islamic Jihad, Eyal Balva’s, the Israel Defense Forces, I.D.F., Hezbollah, Hamas, the Justice Department, the Treasury Department’s, Financial Crimes Enforcement Network, World Liberty Financial, Trump
+----------------------------------------
+Article 42:
+ Persons: Benjamin Oreskes, Zohran Mamdani’s, Zohran Mamdani’s, Mamdani, Adriano Espaillat, Espaillat, Daniel Goldman, Alexa Avilés, Brad Lander, Netanyahu, Avilés, Ritchie Torres, Michael Blake, Blake, Ritchie, Benjamin Netanyahu, Torres, Goldman, Espaillat, Goldman, Mamdani, Torres, Goldman, Espaillat, Mamdani, Mamdani, Mamdani, Rabbi Jeremy Kalmanofsky, Ritchie Torres, Rabbi Kalmanofsky, Mamdani, Lander, Netanyahu, Avilés, Lander, Mark Levine, Goldman, Goldman, Netanyahu, Dan, Simone Kanter, Goldman, Dan, Mamdani, Lander, Goldman, Chi Ossé, Jeffries, Ossé, Jeffries, Ossé, Ossé, Espaillat, Grace Meng, Chuck Park, Meng, Matt Rey, Meng, Park, Blake, Torres, Blake, Adam Harris, Blake, Blake, Torres, Benny Stanislawski⁩, Torres
+ Organizations: The New York Times
+Section: U.S. Politics, N.Y. House, N.Y. House, Darializa Avila Chevalier, Columbia University, the American Israel Public Affairs Committee, Hamas, AIPAC, Spuyten Duyvil, the Jewish Electorate Institute, The New York Times, Siena University, Hakeem Jeffries, Congress, AIPAC, the Democratic, The New York Times, pro-Israel, AIPAC, House, D.S.A., AIPAC, D.S.A. electoral working group, Congress, AIPAC, Foreign Service, AIPAC, AIPAC
+----------------------------------------
+Article 43:
+ Persons: Ephrat Livni, John Acree, Benjamin Netanyahu, Stéphane Dujarric
+ Organizations: The New York Times
+Section:, The Gaza Humanitarian Foundation, the Gaza Humanitarian Foundation, Hamas, the United Nations, G.H.F., G.H.F., United Nations, Hamas, G.H.F., G.H.F., Hamas, Hamas, U.N., G.H.F., G.H.F., G.H.F., U.N., Fox News, Hamas, U.N., G.H.F., U.N., G.H.F.
+----------------------------------------
+Article 44:
+ Persons: Ephrat Livni, Eyal Zamir, Zamir, Zamir, Zamir, Benjamin Netanyahu, Zamir, Herzi Halevi, Zamir, Zamir
+ Organizations: The New York Times
+Section:, Hamas, Hamas, Hamas, Halevi, Neary
+----------------------------------------
+Article 45:
+ Persons: Aaron Boxerman, Haytham Ali Tabatabai, Tabatabai, Benjamin Netanyahu, Tabatabai, Netanyahu, Mahmoud Kamati, Joseph Aoun, Tabatabai, Hassan Nasrallah, Aoun, Assaf Orion, Tabatabai, Orion, Orion
+ Organizations: The New York Times
+Section: International / Middle East, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Dahiya, Hezbollah, Hezbollah, Hamas, Hezbollah, solidarity, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, the U.S. State Department, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, Hezbollah, the Washington Institute for Near East Policy
+----------------------------------------
+Article 46:
+ Persons: Aaron Boxerman
+ Organizations: The New York Times
+Section:, Hamas, Hamas, health ministry, Hamas, Hamas, Hamas, Nuseirat, Hamas, Hamas, Hamas, Hamas, Hamas, the United Nations Security Council, an International Stabilization Force, Hamas, Hamas
+----------------------------------------
+Article 47:
+ Persons: Lynsey Chutel, Dave Goodman, Yuval Raphael, Benjamin Netanyahu, Martin Green, JJ
+ Organizations: The New York Times
+Section:, Eurovision Tightens Voting Rules, the Eurovision Song Contest, The European Broadcasting Union, the European Broadcasting Union, Eurovision, Hamas, Eurovision, the Israeli Government Advertising Agency, YouTube, Google, Eurovision, Eurovision, the Eurovision Broadcasting Union, Hamas, Goodman, Eurovision, Eurovision, Eurovision, Green, Eurovision
+----------------------------------------
+Article 48:
+ Persons: Aaron Boxerman, Trump
+ Organizations: The New York Times
+Section:, Hamas, Hamas, Hamas, Civil Defense, Hamas, Trump, Hamas, Trump, Hamas, Hamas, Hamas
+----------------------------------------
+Article 49:
+ Persons: David M. Halbfinger, Trump, Trump, Trump, Rajab Abu Tawahina, Abu Tawahina, Benjamin Netanyahu, Danny Danon, Nimrod Novik, Netanyahu, Nadav Tamir, Netanyahu, Netanyahu
+ Organizations: The New York Times
+Section:, Road Ahead, U.N., Propels Trump Gaza Plan, Road Ahead, The Security Council, The U.N. Security Council, an International Stabilization Force, Time, The Security Council, Trump, the International Stabilization Force, United Nations, Hamas, Hamas, Hamas, U.N., the International Stabilization Force, Trump, U.N., the Palestinian Authority, Hamas, U.N., Authority, the United Nations, U.N., the Palestinian Authority, Hamas, Hamas, Trump, Trump, Hamas, no International Stabilization Force, Hamas, Trump, Trump, Trump, Trump, the Palestinian Authority, Trump
+----------------------------------------
+Article 50:
+ Persons: Aaron Boxerman, Adam Rasgon, Natan Odenheimer, David M. Halbfinger, Trump, Trump, Tim Hawkins, Aryeh Lightstone, Lightstone, Trump, Patrick D. Frank, Steven Fagin, Yaakov Dolf, Hawkins, Benjamin Netanyahu, JD Vance, Marco Rubio
+ Organizations: The New York Times
+Section:, Hamas, Hamas, the United Nations Security Council, an International Stabilization Force, Civil-Military Coordination Center, Central Command, Trump, the United Arab Emirates, Hamas, The New York Times, Hamas, Hamas, Hamas, Hamas, Central Command, the Gaza Humanitarian Foundation, U.S. Army Central, Central Command, CENTCOM, the Coordinator of Government Activities, Palestinian Authority, the Palestinian Authority, Trump, State, Hamas, Google, Trump, Hamas
+----------------------------------------
+Article 51:
+ Persons: John Eligon, Zimasa Matiwane, Ahmed Shehada, Shehada, Shehada, Shehada, Ronald Lamola, Cyril Ramaphosa, Shehada, Al-Majd, Shehada, Khan Younis, Al-Majd, Rafah, Al-Majd, Shehada, Al-Majd, Al-Majd, Luay Abu Saif, Al-Majd, Saif, Shehada
+ Organizations: The New York Times
+Section:, Al-Majd Europe, U.N., WhatsApp, Kerem Shalom, YouTube
+----------------------------------------
+Article 52:
+ Persons: Bilal Shbair, Abu Bakr Bashir, Aaron Boxerman, Hussein Owada, Owada, Aloul, Aisha al-Qudeiry, al-Qudeiry, al-Qudeiry
+ Organizations: The New York Times
+Section:, Hamas, U.N., U.N., Trump, Hamas, Hamas, U.N., the New York Times, the United Nations
+----------------------------------------
+Article 53:
+ Persons: Katrin Bennhold, Adam Rasgon, Adam Rasgon, Adam, Katrin, Adam
+ Organizations: The New York Times, The Next Steps, Hamas, Hamas, Hamas, an International Stabilization Force, Hamas, Trump, Hamas, Hamas, Hamas, Hamas, the Palestinian Authority, Hamas, Hamas, Hamas, Hamas, Hamas, the United Arab Emirates, Trump, the International Stabilization Force
+----------------------------------------

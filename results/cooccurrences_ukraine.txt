@@ -1,0 +1,9 @@
+Ukraine 
+Adjectifs : [('russian', 54), ('s', 18), ('russia-ukraine', 16), ('”', 15), ('military', 14), ('other', 14), ('more', 12), ('european', 11), ('*', 10), ('social', 9)]
+Verbes    : [('said', 62), ('was', 40), ('s', 35), ('had', 33), ('is', 33), ('be', 33), ('have', 31), ('has', 31), ('been', 20), ('were', 20)]
+Noms      : [('’', 90), ('ukraine', 69), ('mr.', 67), ('officials', 57), ('russia', 53), ('war', 51), ('ukrainians', 47), ('*', 40), ('===', 35), ('”', 34)]
+
+ Russia 
+Adjectifs : [('ukrainian', 64), ('military', 20), ('russia-ukraine', 20), ('eastern', 18), ('european', 14), ('s', 13), ('”', 13), ('more', 11), ('most', 10), ('other', 10)]
+Verbes    : [('said', 73), ('has', 54), ('was', 49), ('had', 48), ('s', 45), ('is', 41), ('are', 38), ('been', 34), ('have', 30), ('be', 26)]
+Noms      : [('ukraine', 126), ('’', 117), ('war', 77), ('mr.', 76), ('russia', 61), ('forces', 46), ('===', 42), ('s', 41), ('trump', 39), ('”', 37)]

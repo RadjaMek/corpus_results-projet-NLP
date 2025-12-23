@@ -1,0 +1,46 @@
+Fréquence et pourcentage d'occupation des mots dans Gaza (total 35275 mots)
+
+Mot : hamas
+  Fréquence   : 377
+  Pourcentage : 1.0687 %
+
+Mot : israel
+  Fréquence   : 1073
+  Pourcentage : 3.0418 %
+
+Mot : trump
+  Fréquence   : 134
+  Pourcentage : 0.3799 %
+
+Mot : gaza
+  Fréquence   : 576
+  Pourcentage : 1.6329 %
+
+Mot : attack
+  Fréquence   : 160
+  Pourcentage : 0.4536 %
+
+Mot : bombardment
+  Fréquence   : 7
+  Pourcentage : 0.0198 %
+
+Mot : ceasefire
+  Fréquence   : 116
+  Pourcentage : 0.3288 %
+
+Mot : civilians
+  Fréquence   : 0
+  Pourcentage : 0.0000 %
+
+Mot : refugee
+  Fréquence   : 4
+  Pourcentage : 0.0113 %
+
+Mot : destruction
+  Fréquence   : 9
+  Pourcentage : 0.0255 %
+
+Mot : hospital
+  Fréquence   : 28
+  Pourcentage : 0.0794 %
+

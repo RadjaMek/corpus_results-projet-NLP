@@ -1,0 +1,21 @@
+20 mots les plus fréquents ===
+israel: 1073
+said: 589
+gaza: 576
+mr: 403
+hamas: 377
+palestinian: 272
+war: 256
+military: 211
+u: 187
+time: 175
+official: 167
+new: 162
+attack: 160
+two: 149
+would: 148
+hostage: 145
+one: 145
+first: 145
+people: 137
+trump: 134
