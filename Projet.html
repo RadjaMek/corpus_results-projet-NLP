@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Exploration Corpus & Résultats</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background: #f7f7f7;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .section {
+            background: white;
+            padding: 20px;
+            margin-bottom: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 5px #ccc;
+        }
+        .file-list {
+            margin-top: 10px;
+        }
+        .file-item {
+            padding: 5px 0;
+        }
+        img {
+            max-width: 80%;
+            margin-top: 15px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Interface d’Exploration du Corpus</h1>
+
+    <!-- SECTION 1 : Corpus collectés -->
+    <div class="section">
+        <h2>📁 Corpus collectés</h2>
+        <p>Les fichiers suivants ont été collectés :</p>
+
+        <!-- Liste automatique des fichiers d'un dossier "corpus/" -->
+        <div id="corpus" class="file-list"></div>
+    </div>
+
+    <!-- SECTION 2 : Résultats du traitement -->
+    <div class="section">
+        <h2>📊 Visualisation des résultats</h2>
+        <p>Les graphiques et fichiers générés par le notebook (.ipynb) :</p>
+
+        <div id="results" class="file-list"></div>
+    </div>
+
+    <script>
+        // Fonction pour lister les fichiers d’un dossier (nécessite serveur local)
+        async function loadFiles(folder, targetElementId) {
+            try {
+                const response = await fetch(folder);
+                const text = await response.text();
+
+                // Récupère les liens trouvés dans l’index du dossier
+                const parser = new DOMParser();
+                const html = parser.parseFromString(text, "text/html");
+                const links = html.querySelectorAll("a");
+
+                let container = document.getElementById(targetElementId);
+                container.innerHTML = "";
+
+                links.forEach(link => {
+                    const filename = link.getAttribute("href");
+                    if (filename === "../") return;
+
+                    let item = document.createElement("div");
+                    item.className = "file-item";
+
+                    // Si c'est une image → afficher directement
+                    if (filename.match(/\.(png|jpg|jpeg|gif)$/i)) {
+                        item.innerHTML = `<strong>${filename}</strong><br>
+                        <img src="${folder}/${filename}">`;
+                    }
+                    else {
+                        item.innerHTML = `<a href="${folder}/${filename}" target="_blank">${filename}</a>`;
+                    }
+
+                    container.appendChild(item);
+                });
+
+            } catch (err) {
+                document.getElementById(targetElementId).innerHTML =
+                    "<em>Impossible de charger les fichiers (hébergez l’HTML via un serveur local)</em>";
+            }
+        }
+
+        // Charger automatiquement :
+        loadFiles("corpus", "corpus");
+        loadFiles("results", "results");
+    </script>
+
+</body>
+</html>
