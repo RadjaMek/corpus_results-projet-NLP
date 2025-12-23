@@ -5,5 +5,5 @@ Contribution des membres du groupe
 •	Collecte du corpus d’articles : Katia BENMAMAR, Lina DJEBASSI
 •	Conversion des articles en texte brut et prétraitement des données : Lina AMARI, Radja MEKADEM
 •	Analyse lexicale et statistique : Radja MEKADEM, Lina DJEBASSI
-•	Analyse sémantique et interprétation des résultats : Lina AMARI, Katia BENMAMAR
+•	Analyse sémantique et interprétation des résultats : Lina AMARI, Katia BENMAMAR 
 
