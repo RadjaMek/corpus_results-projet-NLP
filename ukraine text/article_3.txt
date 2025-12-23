@@ -1,0 +1,77 @@
+=== METADATA ===
+
+Source: New York Times
+Title: Zelensky’s Government Sabotaged Oversight, Allowing Corruption to Fester
+Authors: Constant Méheut; Kim Barker
+Reported_From: Kyiv
+Published_Date: 2025-12-05
+Updated_Date: Not specified
+Section: Ukraine / Corruption / Governance
+Conflict: Russia-Ukraine War (Governance and Aid Oversight)
+
+=== ARTICLE ===
+Zelensky’s Government Sabotaged Oversight, Allowing Corruption to Fester
+
+Ukrainian leaders blame independent advisers for failing to prevent graft. A Times investigation found that President Volodymyr Zelensky’s own administration removed guardrails.
+
+When Russian troops invaded Ukraine, Kyiv’s Western allies faced a dilemma: how to spend billions supporting a government fighting Russia without watching the money vanish into the pockets of corrupt managers and government officials.
+
+The stakes were high because Ukraine’s vital wartime industries — power distribution, weapons purchases and nuclear energy — were controlled by state-owned companies that have long served as piggy banks for the country’s elite.
+
+To protect their money, the United States and European nations insisted on oversight. They required Ukraine to allow groups of outside experts, known as supervisory boards, to monitor spending, appoint executives and prevent corruption.
+
+Over the past four years, a New York Times investigation found, the Ukrainian government systematically sabotaged that oversight, allowing graft to flourish.
+
+President Volodymyr Zelensky’s administration has stacked boards with loyalists, left seats empty or stalled them from being set up at all. Leaders in Kyiv even rewrote company charters to limit oversight, keeping the government in control and allowing hundreds of millions of dollars to be spent without outsiders poking around.
+
+Supervisory boards serve an essential oversight function, allowing independent experts, typically from other countries, to scrutinize major decisions inside Ukrainian state-owned companies.
+
+They are also central to the corruption scandal swirling around Mr. Zelensky’s government. Anti-corruption authorities have accused members of his inner circle of siphoning off and laundering $100 million from the state-owned nuclear power company, Energoatom.
+
+Mr. Zelensky’s administration has blamed Energoatom’s supervisory board for failing to stop the corruption. But it was Mr. Zelensky’s government itself that neutered Energoatom’s supervisory board, The Times found.
+
+In documents and interviews with about 20 Western and Ukrainian officials who have worked closely with company boards or served on them, The Times found political interference not only at Energoatom but also at the state-owned electricity company Ukrenergo as well as at Ukraine’s Defense Procurement Agency. Some people spoke on condition of anonymity to discuss confidential deliberations.
+
+An adviser for Mr. Zelensky declined to comment, saying that the supervisory boards were not the president’s responsibility.
+
+European leaders have privately criticized but reluctantly tolerated Ukrainian corruption for years, reasoning that supporting the fight against Russia’s invasion was paramount. So, even as Ukraine undermined outside oversight, European money kept flowing.
+
+“We do care about good governance, but we have to accept that risk,” said Christian Syse, the special envoy to Ukraine from Norway, one of Kyiv’s top donors. He added: “Because it’s war. Because it’s in our own interest to help Ukraine financially. Because Ukraine is defending Europe from Russian attacks.”
+
+The political meddling with Energoatom’s supervisory board is a case study in how Ukraine’s leaders have blocked efforts to prevent corruption. The Zelensky administration delayed the formation of Energoatom’s board and, when it finally came together, the government left a seat empty — impeding the board’s ability to act.
+
+Had the board worked normally, it might have curtailed what the authorities now say was rampant corruption. Contractors on Energoatom projects had to pay kickbacks of up to 15 percent, according to investigators.
+
+Mr. Zelensky was elected in 2019 on a promise to eliminate graft. But after Russia’s 2022 invasion, he relaxed anti-corruption rules in the name of speeding up weapons procurement and protecting military secrets. Mr. Zelensky also worked with political and business figures whom he had once declared to be criminals.
+
+The Energoatom scandal has hamstrung Mr. Zelensky politically and weakened his case for Ukraine to join the European Union and NATO, two institutions wary of adding a member that is dogged by corruption. Mr. Zelensky sees those memberships as key to his country’s future.
+
+If it does not clean up corruption, Kyiv also might not receive the hundreds of billions needed to rebuild the country after the war. “There will be more hesitation to dedicate big funding,” said Arvid Tuerkner, managing director for Ukraine at the European Bank for Reconstruction and Development, one of Kyiv’s largest financial backers.
+
+How to Hijack a Board
+The Zelensky administration began meddling in Ukrenergo, the country’s power grid operator, a few months before the war, Volodymyr Kudrytskyi, the company’s former chief executive, recalled in interviews.
+
+In late 2021, he said, he began receiving calls from Herman Halushchenko, who had recently been appointed Mr. Zelensky’s energy minister. Mr. Halushchenko wanted Mr. Kudrytskyi to hire people to management roles who had limited experience in the energy business.
+
+“He started insisting,” Mr. Kudrytskyi said. “He started aggressively trying to make me appoint them.”
+
+Mr. Halushchenko did not respond to repeated requests for comment.
+
+The budgets of state-owned companies like Ukrenergo have historically been major targets for corrupt politicians, so Mr. Kudrytskyi was suspicious. He said he successfully resisted the pressure because he had the backing of his supervisory board.
+
+Ukrenergo’s board is made up of seven people who oversee major projects and executive appointments. The government picks the supervisory board members, but four are foreigners chosen from a shortlist made by the European Union and Western banks. The other three seats go to Ukrainian government representatives.
+
+The principle is that independent expertise will always outvote government interests.
+
+By late 2021, Ukrenergo’s board was expiring. European and Ukrainian officials began meeting to consider new members. They did not realize it at the time, European officials say, but they now think that the Ukrainian government hijacked that board and, in doing so, established a playbook to use with other companies.
+
+The first sign that something was amiss came after the European Union, the World Bank and the European Bank for Reconstruction and Development submitted their shortlist.
+
+Rather than pick exclusively from that list, the Ukrainian Energy Ministry, under Mr. Halushchenko, insisted that one of the seats go to Roman Pionkowski, a Polish energy expert who had worked on consulting projects in Ukraine, two officials said. They said that Mr. Pionkowski had interviewed for the job but was rated too low to make the shortlist.
+
+Western officials were surprised but accepted Mr. Pionkowski’s nomination as one of the four foreign experts. The new board was seated in December 2021.
+
+Then the Russians invaded. Ukrenergo soon faced sustained attacks on energy infrastructure.
+
+Under Mr. Kudrytskyi’s leadership, Ukrenergo made repairs around the clock, allowing it to maintain the country’s power supply. The company also became a trusted partner for Western donors, who gave it $1.7 billion in loans and grants in the first years of the war.
+
